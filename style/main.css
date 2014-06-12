@@ -485,12 +485,14 @@ hr {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #edc53f;
+    background: url('../tile-sets/birdsofprey/1024.jpg');
 }
 
 .tile.tile-2048 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #edc22e;
+    background: url('../tile-sets/birdsofprey/2048.jpg');
 }
 
 .tile.tile-super .tile-inner {
