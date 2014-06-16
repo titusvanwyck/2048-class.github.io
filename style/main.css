@@ -20,7 +20,8 @@ body {
 }
 
 h1.title {
-    font-size: 80px;
+    font-size: 40px
+    ;
     font-weight: bold;
     margin: 0;
     display: block;
@@ -71,7 +72,7 @@ h1.title {
 .score-container, .best-container {
     position: relative;
     display: inline-block;
-    background: #bbada0;
+    background: #5A3F26;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
@@ -191,7 +192,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+    background: #A3B372;
     border-radius: 6px;
     width: 500px;
     height: 500px;
@@ -285,7 +286,7 @@ hr {
     margin-right: 15px;
     float: left;
     border-radius: 3px;
-    background: rgba(238, 228, 218, 0.35);
+    background:rgba(30, 68, 0, 0.48);
 }
 
 .grid-cell:last-child {
@@ -648,7 +649,7 @@ hr {
 
 .restart-button {
     display: inline-block;
-    background: #8f7a66;
+    background: #543D27;
     border-radius: 3px;
     padding: 0 20px;
     text-decoration: none;
@@ -658,6 +659,7 @@ hr {
     display: block;
     text-align: center;
     float: right;
+    margin-top: 10px;
 }
 
 .game-explanation {
@@ -675,7 +677,7 @@ hr {
     }
 
     h1.title {
-        font-size: 27px;
+        font-size: 16px;
         margin-top: 15px;
     }
 
@@ -721,7 +723,7 @@ hr {
         -ms-user-select: none;
         -ms-touch-action: none;
         touch-action: none;
-        background: #bbada0;
+        background: #A3B372;
         border-radius: 6px;
         width: 280px;
         height: 280px;
@@ -815,7 +817,7 @@ hr {
         margin-right: 10px;
         float: left;
         border-radius: 3px;
-        background: rgba(238, 228, 218, 0.35);
+        background: rgba(30, 68, 0, 0.48);
     }
 
     .grid-cell:last-child {
